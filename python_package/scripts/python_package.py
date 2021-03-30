@@ -2,7 +2,7 @@
 
 """An example script."""
 
-from hexlet_python_package import user
+from python_package import user
 
 
 def main():
