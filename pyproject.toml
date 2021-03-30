@@ -13,7 +13,7 @@ pytest = "^6.1.0"
 pytest-cov = "^2.11.1"
 
 [tool.poetry.scripts]
-hexlet-python-package = "python_package.scripts.python_package:main"
+python-package = "python_package.scripts.python_package:main"
 
 [build-system]
 requires = ["poetry>=0.12"]
