@@ -2,7 +2,7 @@
 
 """Users representation tests."""
 
-from hexlet_python_package.user import User
+from python_package.user import User
 
 
 def test_instantiation():
